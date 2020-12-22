@@ -1,0 +1,3 @@
+type PreferenceType = {
+  label: string;
+};
