@@ -29,7 +29,7 @@ const Preference = ({ item, index, drag, isActive }: ItemProps) => {
           padding: 20,
         }}
       >
-        {item.label}
+        {item}
       </Text>
     </TouchableOpacity>
   );
